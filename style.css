@@ -49,7 +49,7 @@ body {
   padding: 0px 10px;
   transform-style: preserve-3d;
   text-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
-  transform: translate(-50%, -50%) rotateX(calc(var(--i) * 22.5deg)) translateZ(109px);
+  transform: translate(-50%, -50%) rotateX(calc(var(--i) * 22.5deg)) translateZ(135px);
 }
 
 .container .box span i {
