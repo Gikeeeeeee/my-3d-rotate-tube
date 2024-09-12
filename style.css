@@ -57,12 +57,17 @@ body {
 }
 
 .container .box span i:nth-child(1) {
-  color: #5c5fc4;
+  color: #a37ab4;
 }
 
 .container .box span i:nth-child(2) {
-  color: #c4c15c;
+  color: #c86883;
 }
+
+.container .box span i:nth-child(3) {
+  color: #e0def4;
+}
+
 
 @keyframes animate {
   0% {
